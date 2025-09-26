@@ -1,64 +1,66 @@
-# BADHOOD Store
+# BADHOOD: Open-Source Multi-Vendor Laravel eCommerce Solution
 
-BADHOOD is a Laravel-based multi-vendor eCommerce solution.  
-It provides dedicated panels for **Admin**, **Vendors**, and **Customers**, making it a complete marketplace starter kit.
+**BADHOOD** is a powerful and open-source multi-vendor **Laravel** eCommerce solution. It is fully customizable and ready to use. It is the perfect choice for launching your online store with ease and efficiency, now as **BADHOOD**!
 
 ## Features
 
-- Built with Laravel 10+
+- Built with **Laravel**
 - Multi-vendor support
-- Multi-language support
-- Admin, Vendor, and Customer dashboards
-- Integrated payment gateways (PayPal, Stripe)
+- Multi-lingual support
+- Dedicated **Admin**, **Seller**, and **Customer** panels
 - Modular and extensible architecture
+- Translated to **19 languages**
+- Integrated payment gateways: **PayPal** and **Stripe**
 
-## Installation
+## Installation Guide
 
-Clone the repository:
+Follow these steps to set up **BADHOOD**:
 
+### **1. Install via Composer**
+
+Run the following command to create a new **BADHOOD** project:
 ```sh
-git clone https://github.com/danizeballos/badhood-store.git
-cd badhood-store
+composer create-project badhoodlabs/badhood
+2. Setup Environment
+If you didn't have a .env file, copy it from .env.example.
+cp .env.example .env
+3. Run Installation Command
+Run the following command to install BADHOOD:
 
-Install dependencies:
-Copy the environment file and configure it:
+Bash
 
-cp .env.example .env   # Linux/Mac
-copy .env.example .env # Windows
+php artisan install:badhood --with-import
+Options:
 
+--with-import Imports sample data to help you get started quickly.
 
-Update your .env file with database credentials, for example:
+4. Start the Server
+Start the Laravel server:
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=badhood_store
-DB_USERNAME=badhood_app
-DB_PASSWORD=Badhood20***
-
-
-Run migrations and seeders:
-
-php artisan install:velstore --with-import
-
-
-Start the servers:
+Bash
 
 php artisan serve
+If you find the error Vite manifest not found at, you should run this in a separate terminal:
+
+Bash
+
 npm run dev
+Your BADHOOD instance is now running! Open your browser and visit:
 
+Bash
 
-Now open your browser and visit:
-
-Frontend: http://127.0.0.1:8000
-Admin:    http://127.0.0.1:8000/admin/login
-
+[http://127.0.0.1:8000](http://127.0.0.1:8000)
 Tech Stack
-
 Backend: Laravel 10+
 
-Frontend: Blade + Vite
+Database: MySQLi
 
-Database: MySQL
+Frontend: Blade (with Laravel UI)
 
 Authentication: Laravel Sanctum
+
+DataTables: Yajra Laravel Datatables
+
+💼 Hire Us
+Need eCommerce development, BADHOOD customization, or support for your project? We’re ready to help.
+Share your project details here
