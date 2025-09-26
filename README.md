@@ -1,61 +1,56 @@
 <p align="center">
-  <img src="https://i.ibb.co/1tRYZP5R/Velstore-logo-v1.png" alt="Velstore open-source multi-vendor Laravel eCommerce solution">
+  <img src="https://github.com/danizeballos/badhood-store/blob/main/21d2032c-512a-4556-b75d-000184e8202f.jpg" alt="BADHOOD — Marketplace de ropa (Laravel)" width="280">
 </p>
 
 <p align="center">
 
-  <a href="https://packagist.org/packages/velstorelabs/velstore">
-    <img src="https://poser.pugx.org/velstorelabs/velstore/d/total" alt="Velstore Packagist Downloads">
+  <a href="https://github.com/danizeballos/badhood-store/stargazers">
+    <img src="https://img.shields.io/github/stars/danizeballos/badhood-store?style=flat" alt="Stars">
   </a>
   
-  <a href="https://github.com/velstorelabs/velstore/releases">
-    <img src="https://poser.pugx.org/velstorelabs/velstore/v/stable" alt="Velstore Latest Stable Version">
+  <a href="https://github.com/danizeballos/badhood-store/issues">
+    <img src="https://img.shields.io/github/issues/danizeballos/badhood-store" alt="Issues">
   </a>
 
-  <a href="https://github.com/velstorelabs/velstore/actions/workflows/ci.yml">
-    <img src="https://github.com/velstorelabs/velstore/actions/workflows/ci.yml/badge.svg" alt="CI status for Velstore">
+  <a href="https://github.com/danizeballos/badhood-store/commits/main">
+    <img src="https://img.shields.io/github/last-commit/danizeballos/badhood-store" alt="Last commit">
   </a>
 
-  <a href="https://github.com/velstorelabs/velstore/blob/master/LICENSE">
-    <img src="https://poser.pugx.org/velstorelabs/velstore/license" alt="License">
+  <a href="https://github.com/danizeballos/badhood-store/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-informational" alt="License">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/9mL3YZQV/velstore-demo1-resized.png" alt="Velstore open-source multi-vendor Laravel eCommerce solution demo">
+  <img src="https://i.ibb.co/9mL3YZQV/velstore-demo1-resized.png" alt="BADHOOD demo - home">
 </p>
 
-Velstore is a powerful and open-source multi-vendor Laravel eCommerce solution. It is fully customizable and ready to use. It is the perfect choice for launching your online store with ease and efficiency.
+BADHOOD es un marketplace de ropa basado en Laravel, con soporte multi-vendedor y paneles para **Admin**, **Vendedor** y **Cliente**. Está pensado para lanzar tu tienda rápidamente y luego personalizarla a tu estilo.
 
 ## Features
 
-- Built with Laravel
+- Built with Laravel 10+
 - Multi vendor support
 - Multi lingual support  
 - Dedicated Admin, Seller, and Customer panels 
 - Modular and extensible architecture
-- Translated to 19 languages
 - Integrated payment gateways: PayPal and Stripe
 
 ### Supported Languages
 
 <p align="center" style="display: inline;">
     <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" title="English" width="24">
+    <img src="https://flagicons.lipis.dev/flags/4x3/es.svg" title="Spanish" width="24">
     <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" title="German" width="24">
     <img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" title="French" width="24">
-    <img src="https://flagicons.lipis.dev/flags/4x3/es.svg" title="Spanish" width="24">
-    <img src="https://flagicons.lipis.dev/flags/4x3/nl.svg" title="Dutch" width="24">
     <img src="https://flagicons.lipis.dev/flags/4x3/it.svg" title="Italian" width="24">
     <img src="https://flagicons.lipis.dev/flags/4x3/pt.svg" title="Portuguese" width="24">
-    <img src="https://flagicons.lipis.dev/flags/4x3/in.svg" title="Hindi" width="24">
-    &nbsp;&nbsp;&nbsp;
+    <img src="https://flagicons.lipis.dev/flags/4x3/nl.svg" title="Dutch" width="24">
     <img src="https://flagicons.lipis.dev/flags/4x3/pl.svg" title="Polish" width="24">
     <img src="https://flagicons.lipis.dev/flags/4x3/ru.svg" title="Russian" width="24">
-    &nbsp;&nbsp;&nbsp;
     <img src="https://flagicons.lipis.dev/flags/4x3/tr.svg" title="Turkish" width="24">
     <img src="https://flagicons.lipis.dev/flags/4x3/sa.svg" title="Arabic" width="24">
     <img src="https://flagicons.lipis.dev/flags/4x3/ir.svg" title="Persian" width="24">
-    &nbsp;&nbsp;&nbsp;
     <img src="https://flagicons.lipis.dev/flags/4x3/cn.svg" title="Chinese" width="24">
     <img src="https://flagicons.lipis.dev/flags/4x3/jp.svg" title="Japanese" width="24">
     <img src="https://flagicons.lipis.dev/flags/4x3/id.svg" title="Indonesian" width="24">
@@ -64,73 +59,82 @@ Velstore is a powerful and open-source multi-vendor Laravel eCommerce solution. 
     <img src="https://flagicons.lipis.dev/flags/4x3/th.svg" title="Thai" width="24">
 </p>
 
-
 ### Trending Products
 
 <p align="center">
-  <img src="https://i.ibb.co/7Jy8q2CS/trending-product-1.png" alt="Velstore open-source multi-vendor Laravel eCommerce solution demo">
+  <img src="https://i.ibb.co/7Jy8q2CS/trending-product-1.png" alt="BADHOOD trending products">
 </p>
 
 ### Featured Products
 
 <p align="center">
-  <img src="https://i.ibb.co/ch5w4bv2/featured-products-velstore-laravel.png" alt="Velstore open-source multi-vendor Laravel eCommerce solution demo">
+  <img src="https://i.ibb.co/ch5w4bv2/featured-products-velstore-laravel.png" alt="BADHOOD featured products">
 </p>
 
 ### Categories
 
 <p align="center">
-  <img src="https://i.ibb.co/vvKgdWK9/categories-velstore-laravel.png" alt="Velstore open-source multi-vendor Laravel eCommerce solution demo">
+  <img src="https://i.ibb.co/vvKgdWK9/categories-velstore-laravel.png" alt="BADHOOD categories">
 </p>
 
 ## Installation Guide  
 
-Follow these steps to set up Velstore:  
+Follow these steps to set up BADHOOD locally:  
 
-### **Install via Composer**  
-Run the following command to create a new Velstore project:
+### **Install via GitHub clone**  
 ```sh
-composer create-project velstorelabs/velstore
-```
+git clone https://github.com/danizeballos/badhood-store.git
+cd badhood-store
+composer install
+If you don't have .env, copy it from .env.example:
+cp .env.example .env   # Linux/Mac
+copy .env.example .env # Windows
+Then configure your database in .env (example):
+APP_NAME=BADHOOD
+APP_ENV=local
+APP_DEBUG=true
+APP_URL=http://127.0.0.1:8000
 
-If you didn't have `.env` you can copy it from `.env.example`.
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=badhood_store
+DB_USERNAME=badhood_app
+DB_PASSWORD=Badhoo***
+Run migrations and seeders:
 
-```sh
-cp .env.example .env
-```
-
-Create a new database and update the database credentials in `.env`. Run the following command to install Velstore:
-```sh
 php artisan install:velstore --with-import
-```
 
-### **Options**
-- `--with-import` Imports sample data to help you get started quickly.
 
 Start the Laravel server:
-```sh
+
 php artisan serve
-```
 
-If you found error `Vite manifest not found at`, you should run this in different terminal:
-```sh
+
+If you found error Vite manifest not found at, run this in another terminal:
+
+npm install
 npm run dev
-```
 
-Your Velstore instance is now running! Open your browser and visit:
-```sh
-http://127.0.0.1:8000
-```
 
-## Tech Stack
-- Backend: Laravel 10+
-- Database: MySQLi
-- Frontend: Blade (with Laravel UI)
-- Authentication: Laravel Sanctum
-- DataTables: Yajra Laravel Datatables
+Your BADHOOD instance is now running! Open your browser and visit:
 
-## 💼 Hire Us
-Need ecommerce development, Velstore customization, or support for your project?  
-We’re ready to help.  
+Frontend: http://127.0.0.1:8000
+Admin:    http://127.0.0.1:8000/admin/login
 
-[Share your project details](https://forms.gle/ZF9E9t5gUKShfHLLA)
+Tech Stack
+
+Backend: Laravel 10+
+
+Database: MySQL
+
+Frontend: Blade (with Laravel Vite)
+
+Authentication: Laravel Sanctum
+
+DataTables: Yajra Laravel Datatables
+
+💼 Contacto
+
+¿Necesitas soporte, desarrollo de ecommerce o personalización para BADHOOD?
+Escríbeme en GitHub creando un issue.
