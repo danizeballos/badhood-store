@@ -19,7 +19,8 @@ Clone the repository:
 ```sh
 git clone https://github.com/danizeballos/badhood-store.git
 cd badhood-store
-## Install dependencies:
+
+Install dependencies:
 Copy the environment file and configure it:
 
 cp .env.example .env   # Linux/Mac
